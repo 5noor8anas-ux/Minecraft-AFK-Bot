@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "HeartHunter.aternos.me",
+  "serverPort": 39863,
+  "botUsername": "AfkBot",
   "botChunk": 1
 }
